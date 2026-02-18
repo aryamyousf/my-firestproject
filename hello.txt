@@ -1,5 +1,5 @@
 
 * Hello, this is my first Git project!
 I love programming
-
+I am learning git & GitHub
 
