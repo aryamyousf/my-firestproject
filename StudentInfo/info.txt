@@ -1,2 +1,4 @@
 Name: Aryam Yousef Al Harbi
 ID: 4551244
+Section: Artificial intelligence
+Course : Software Engineering
